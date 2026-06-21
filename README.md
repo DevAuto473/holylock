@@ -40,11 +40,11 @@ Arch Linux:
 Open your terminal and run the following commands to clone and install the project automatically:
 Bash
 
-*git clone https://github.com/YOUR_USERNAME/focus-lock.git
+git clone https://github.com/YOUR_USERNAME/focus-lock.git
 cd focus-lock
 chmod +x install.sh
-sudo ./install.sh*
----
+sudo ./install.sh
+
 -Usage-
 
 After installation, restart your terminal (or run source ~/.bashrc), then simply type the shortcut command to launch the application at any time:
