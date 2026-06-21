@@ -40,7 +40,7 @@ Arch Linux:
 Open your terminal and run the following commands to clone and install the project automatically:
 Bash
 
-git clone https://github.com/YOUR_USERNAME/focus-lock.git
+git clone https://github.com/DevAuto473/holylock.git
 
 cd focus-lock
 
