@@ -20,23 +20,23 @@ Supported Distributions
     Arch Linux / Manjaro
 
 -Prerequisites-
-
+-
 Make sure Git and Python 3 are installed on your system before proceeding:
 
 Fedora:
--
+
 *sudo dnf install git python3 -y*
 
 Debian / Ubuntu / Linux Mint:
--
+
 *sudo apt update && sudo apt install git python3 -y*
 
 Arch Linux:
--
+
 *sudo pacman -Sy git python --noconfirm*
 
 -Installation-
-
+-
 Open your terminal and run the following commands to clone and install the project automatically:
 Bash
 
@@ -46,12 +46,12 @@ chmod +x install.sh
 sudo ./install.sh
 
 -Usage-
-
+-
 After installation, restart your terminal (or run source ~/.bashrc), then simply type the shortcut command to launch the application at any time:
 Bash
 
 *holylock*
----
-Important Technical Note
 
+Important Technical Note
+-
 Some modern browsers cache DNS queries locally for a short period. If you lock a website while the browser is open, it is highly recommended to completely restart your browser or clear its internal DNS cache (e.g., via about:networking in Firefox) to enforce the lock immediately.
