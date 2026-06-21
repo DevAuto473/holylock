@@ -24,17 +24,17 @@ Supported Distributions
 Make sure Git and Python 3 are installed on your system before proceeding:
 
 Fedora:
-
+-
 *sudo dnf install git python3 -y*
 
 Debian / Ubuntu / Linux Mint:
-
+-
 *sudo apt update && sudo apt install git python3 -y*
 
 Arch Linux:
-
+-
 *sudo pacman -Sy git python --noconfirm*
----
+
 -Installation-
 
 Open your terminal and run the following commands to clone and install the project automatically:
