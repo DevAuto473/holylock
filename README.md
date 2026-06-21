@@ -41,8 +41,11 @@ Open your terminal and run the following commands to clone and install the proje
 Bash
 
 git clone https://github.com/YOUR_USERNAME/focus-lock.git
+
 cd focus-lock
+
 chmod +x install.sh
+
 sudo ./install.sh
 
 -Usage-
